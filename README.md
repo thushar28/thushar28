@@ -1,5 +1,5 @@
 <p align="center">
-   <h1 align="center">printf("Hello There Welcome to Thushar's GitHub");</h1>
+   <h1 align="center">printf("Hi There Welcome to Thushar's GitHub");</h1>
 </p> 
 <div align="center">
   <img alt="This is a GIF" src="https://github.com/thushar28/GIFS/blob/main/tumblr_cb596958195ac1de157d177d40e82752_ce0c73ed_500.gif"/>

@@ -1,10 +1,8 @@
 ### Hi there 👋
-# HI THERE HELLO
 <div align="center">
   <img src=https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif/>
 </div>
-
-
+# HI THERE HELLO
 <!--
 **thushar28/thushar28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

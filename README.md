@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align="center">
-  ![GIF] (https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif)
+
 </div>
 # HI THERE HELLO
 <!--

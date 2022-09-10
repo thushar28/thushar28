@@ -7,7 +7,7 @@
 </div>
 <hr>
 <div>
-   <h1 align="center">Thushar Here</h1>
+   <h1 align="center" color="rgb(50, 137, 168)">Thushar here</h1>
    <img src="https://github.com/thushar28/GIFS/blob/main/handwave.gif" width="20%"/>
 </div>
 <!--

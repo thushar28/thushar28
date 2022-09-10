@@ -7,7 +7,7 @@
 </div>
 <hr>
 <div>
-   <h2 align="center" color=""><b>Thushar Here</b><img src="https://github.com/thushar28/GIFS/blob/main/handwave.gif" width="300px"/></h2>
+   <h2 align="center" color=""><b>Thushar Here</b><img src="https://github.com/thushar28/GIFS/blob/main/handwave.gif" width="20px"/></h2>
 </div>
 <!--
 **thushar28/thushar28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

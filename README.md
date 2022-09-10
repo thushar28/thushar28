@@ -5,6 +5,7 @@
   <img alt="This is a GIF" src="https://github.com/thushar28/GIFS/blob/main/tumblr_cb596958195ac1de157d177d40e82752_ce0c73ed_500.gif" width="800"px
        height="300"/>
 </div>
+<hr>
 
 <!--
 **thushar28/thushar28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

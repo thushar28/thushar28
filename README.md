@@ -6,7 +6,7 @@
        height="300"/>
 </div>
 <hr>
-<h2 align="center"><b><a href="https://github.com/thushar28" target="_blank">THUSHAR HERE</a></b><img src="https://github.com/thushar28/GIFS/blob/main/handwave.gif" width="40px"/></h2>
+<h2 align="center"><b><a href="https://github.com/thushar28">THUSHAR HERE</a></b><img src="https://github.com/thushar28/GIFS/blob/main/handwave.gif" width="40px"/></h2>
 <!--
 **thushar28/thushar28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:-->

@@ -7,7 +7,7 @@
 
 <h2><b>ABOUT ME<b></h2>
 
-- 🔭 I’m currently studying in Mangalore Institute of Technology and Engineering.
+- 🔭 I’m currently studying in Mangalore Institute of Technology and Engineering.<img align="right" src="https://github.com/thushar28/Profile-Page/blob/main/giphy.gif" width="300px"/>
 - 🌱 I’m currently learning JavaScript,React,App Development,Web Development.
 <!-- 👯 I’m looking to collaborate on
 - 🤔 I’m looking for help with ...
@@ -15,14 +15,20 @@
 - 😄 Pronouns: ...-->
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/thushar-r-3b1790211/"><img src="https://github.com/thushar28/GIFS/blob/main/Linkedin-logo-png.png" width="70px" alt="LinkedIn Badge"/></a>
 <!--- <img src="https://github.com/thushar28/GIFS/blob/main/gmail-logo-1-1.png" width="70px" alt="Gmail Badge"/> - thusharrao28@gmail.com-->
-- ⚡ Fun fact: Following me will make you younger. <br>
+- ⚡ Fun fact: <img src="https://github.com/thushar28/Profile-Page/blob/main/404.gif" width="100px" height="30px"/> <br>
 <h3>:man_technologist:Feel Free to Investigate On:</h3>
                                                                                                               
 - :department_store:<a href="https://github.com/thushar28/Real-Estate-Management-System-DBMS-">Real Estate Management System</a> <br>
 - :falafel::plate_with_cutlery:<a href="https://github.com/thushar28/Crunch-it">Cruch It</a>                                                               
 - :hourglass: Much more to roll out.  
-## :hammer_and_wrench: <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=23&pause=1000&color=F79405&width=423&height=34&lines=Languages+And+Tools%3A" alt="Typing SVG"/>                                                                           
-
-                                                                                                              
-                                                                                                          
+## :hammer_and_wrench: <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=23&pause=1000&color=F79405&width=423&height=34&lines=Languages+And+Tools%3A" alt="Typing SVG"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="40px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="40px"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg"width="40px"/>                                       
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" width="40px"/>                                                           <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"width="40px"/>                                       
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40px"/>                                                     <img src="https://github.com/thushar28/Profile-Page/blob/main/png-transparent-dev-c-compiler-integrated-development-environment-c-free-text-logo-world.png" width="40px"/>                                                                                      
 

@@ -11,7 +11,7 @@
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently studying in Mangalore Institute of Technology and Engineering.
-- 🌱 I’m currently learning JavaScript,React.
+- 🌱 I’m currently learning JavaScript,React,App Development,Web Development.
 - 👯 I’m looking to collaborate on
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

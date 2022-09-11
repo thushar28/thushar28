@@ -5,8 +5,6 @@
 <hr>
 <h2 align="center"><b><a href="https://github.com/thushar28">THUSHAR HERE</a></b><img src="https://github.com/thushar28/Profile-Page/blob/main/handwave.gif" width="40px"/></h2>
 
-![](https://komarev.com/ghpvc/?username=your-github-thushar28)
-
 <h2><b>ABOUT ME<b></h2>
 
 - 🔭 I’m currently studying in Mangalore Institute of Technology and Engineering.<img align="right" src="https://github.com/thushar28/Profile-Page/blob/main/giphy.gif" width="300px"/>

@@ -2,18 +2,17 @@
    <h1 align="center">Hello World:wave:</h1>
 </p>--> 
 <div align="center">
-  <img alt="This is a GIF" src="https://github.com/thushar28/GIFS/blob/main/coding.gif" width="800"px
-       height="300"/>
+  <img alt="This is a GIF" src="https://github.com/thushar28/GIFS/blob/main/coding.gif" width="800"px" height="300"px/>
 </div>
 <hr>
 <h2 align="center"><b><a href="https://github.com/thushar28">THUSHAR HERE</a></b><img src="https://github.com/thushar28/GIFS/blob/main/handwave.gif" width="40px"/></h2>
-<!--
-**thushar28/thushar28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!--**thushar28/thushar28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently studying in Mangalore Institute of Technology and Engineering.
-- 🌱 I’m currently learning JavaScript...
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning JavaScript,React.
+- 👯 I’m looking to collaborate on
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...

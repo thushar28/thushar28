@@ -21,7 +21,10 @@
 - :department_store:<a href="https://github.com/thushar28/Real-Estate-Management-System-DBMS-">Real Estate Management System</a> <br>
 - :falafel::plate_with_cutlery:<a href="https://github.com/thushar28/Crunch-it">Crunch It</a>
 - 🚀<a href="https://github.com/thushar28/OpenGL-Project-Rocket-Launch-">Rocket Launch(OpenGL Project)</a>                                   
-- :hourglass: Much more to roll out.  
+- :hourglass: Much more to roll out.<br>
+                                                                        
+  <a href="https://github.com/thushar28/College-Stuff"><img src="https://readme-typing-svg.demolab.com?font=Antonio&pause=1000&color=F73255&width=409&height=40&lines=College+Repo's" alt="Typing SVG" /></a>
+ 
 ## :hammer_and_wrench: <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=23&pause=1000&color=F79405&width=423&height=34&lines=Languages+And+Tools%3A" alt="Typing SVG"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="40px"/>

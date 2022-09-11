@@ -1,8 +1,8 @@
-<p align="center">
+<!--<p align="center">
    <h1 align="center">Hello World:wave:</h1>
-</p> 
+</p>--> 
 <div align="center">
-  <img alt="This is a GIF" src="https://github.com/thushar28/GIFS/blob/main/tumblr_mlrxrvQRio1r3apovo1_500.gif" width="800"px
+  <img alt="This is a GIF" src="https://github.com/thushar28/GIFS/blob/main/coding.gif" width="800"px
        height="300"/>
 </div>
 <hr>

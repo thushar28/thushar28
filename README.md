@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="This is a GIF" src="https://github.com/thushar28/Profile-Page/blob/main/77caa32884d735d439ade45ba37feaf2.gif" width="950"px height="450"px/>
+  <a href="https://thushar28.github.io/thusharportfolio.github.io/"><img alt="This is a GIF" src="https://github.com/thushar28/Profile-Page/blob/main/77caa32884d735d439ade45ba37feaf2.gif" width="950"px height="450"px/></a>
 </div>
                                                                                                                                               
 <hr>

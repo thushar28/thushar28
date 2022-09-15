@@ -3,7 +3,7 @@
 </div>
                                                                                                                                               
 <hr>
-<h2 align="center"><b><a href="https://thushar28.github.io/thusharportfolio.github.io/" target="_blank">THUSHAR HERE</a></b><img src="https://github.com/thushar28/Profile-Page/blob/main/handwave.gif" width="40px"/></h2>
+<h2 align="center"><b><a href="https://thushar28.github.io/thusharportfolio.github.io/">THUSHAR HERE</a></b><img src="https://github.com/thushar28/Profile-Page/blob/main/handwave.gif" width="40px"/></h2>
 
 <h2><b>ABOUT ME<b></h2>
 

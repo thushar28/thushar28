@@ -42,4 +42,4 @@
 <h3>MY STREAKS 🔥</h3>
                                                                                                           
 ![GitHub Streak](https://streak-stats.demolab.com?user=thushar28&theme=dark) 
- <hr>                                                                                            
+ <hr>                                                                                           

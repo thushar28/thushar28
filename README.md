@@ -23,9 +23,10 @@
 - 🚀<a href="https://github.com/thushar28/OpenGL-Project-Rocket-Launch-">Rocket Launch(OpenGL Project)</a>
 - 🍜 <a href="https://github.com/thushar28/MessEatz-Application">MessEatz(Restaurant Finder)</a>
 - 🏏 <a href="https://github.com/thushar28/Online-Sports-Shop">Online Cricket Sports Shop</a>::<a href="https://thushar28.github.io/Online-Sports-Shop/">Live Web link</a>
+- 🩺 <a href="https://github.com/thushar28/Final_Year_Project_Cataract_Detection">Cataract_Detection_Using_Machine_Learning</a>
+- 🩺 <a href="https://bhuvanavahini.com/">Free_Lance_Work_bhuvanavahini.com</a>
 - :hourglass: Much more to roll out.<br>                                
 - Check out my portfolio: <a href="https://thushar28.github.io/">Here </a><br/>                                                                      
-     <a href="https://github.com/thushar28/College-Stuff"><img src="https://readme-typing-svg.demolab.com?font=Antonio&pause=1000&color=F73255&width=409&height=40&lines=College+Repo's" alt="Typing SVG" /></a>
  
 ## :hammer_and_wrench: <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=23&pause=1000&color=F79405&width=423&height=34&lines=Languages+And+Tools%3A" alt="Typing SVG"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40px"/>

@@ -13,7 +13,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 😄 Pronouns: ...-->
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/thushar-r-3b1790211/"><img src="https://github.com/thushar28/Profile-Page/blob/main/Linkedin-logo-png.png" width="70px" alt="LinkedIn Badge"/></a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/thusharrao/"><img src="https://github.com/thushar28/Profile-Page/blob/main/Linkedin-logo-png.png" width="70px" alt="LinkedIn Badge"/></a>
 <!--- <img src="https://github.com/thushar28/GIFS/blob/main/gmail-logo-1-1.png" width="70px" alt="Gmail Badge"/> - thusharrao28@gmail.com-->
 - ⚡ Fun fact: <img src="https://github.com/thushar28/Profile-Page/blob/main/404.gif" width="100px" height="30px"/> <br>
 <h3>:man_technologist:Feel Free to Investigate On:</h3>
